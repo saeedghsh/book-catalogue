@@ -1,0 +1,7 @@
+run.sh
+*.log
+poetry.lock
+
+logs/*
+*__pycache__*
+.vscode/*

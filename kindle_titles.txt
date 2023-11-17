@@ -1,0 +1,662 @@
+The Raven
+Edgar Allan Poe
+
+Hocus Pocus
+Vonnegut, Kurt
+
+How to Draw What You See
+De Reyna, Rudy
+
+Beowulf 
+Anonymous
+
+Man's Search for Meaning
+Frankl, Viktor E.
+
+Genius At Play: The Curious Mind of John Horton Conway
+Roberts, Siobhan
+
+Little Women 
+Alcott, Louisa May
+
+50 Challenging Algebra Problems (Fully Solved) (Improve Your Math Fluency)
+McMullen, Chris
+
+The Man Who Mistook His Wife For A Hat: And Other Clinical Tales
+Sacks, Oliver
+
+Uncle Tom's Cabin 
+Stowe, Harriet Beecher
+
+Alice's Adventures in Wonderland 
+Carroll, Lewis
+
+The Phantom of the Opera
+Leroux, Gaston
+
+Recursion: From the Bestselling Author of Dark Matter Comes the Most Exciting, Twisty Thriller of the Year
+Crouch, Blake
+
+Make Your Own Mandelbrot
+Rashid, Tariq
+
+The Sciences of the Artificial
+Simon, Herbert A.; Simon, Herbert A.
+
+Awkward Bitch:My Life with MS
+Parmelee, Marlo Donato
+
+Mazes for Programmers: Code Your Own Twisty Little Passages
+Buck, Jamis
+
+The Three-Body Problem (Remembrance of Earth's Past Book 1)
+Liu, Cixin
+
+A Mind at Play: How Claude Shannon Invented the Information Age
+Soni, Jimmy; Goodman, Rob
+
+Regarding the Pain of Others
+Sontag, Susan
+
+The Posthumous Memoirs of Brás Cubas
+Machado de Assis, Joaquim Maria
+
+Algorithms to Live By: The Computer Science of Human Decisions
+Christian, Brian; Griffiths, Tom; Christian, Brian; Griffiths, Tom
+
+The Little Golden Calf
+Ilf, Ilya; Petrov, Evgeny; Ilf, Ilya; Petrov, Evgeny
+
+Decision Making under Deep Uncertainty: From Theory to Practice
+Marchau, Vincent A. W. J.; Warren E. Walker; Pieter J. T. M. Bloemen; Steven W. Popper; Marchau, Vincent A. W. J.; Warren E. Walker; Pieter J. T. M. Bloemen; Steven W. Popper
+
+Bash Command Line Pro Tips
+Cannon, Jason; Cannon, Jason
+
+Dark Matter: A Novel
+Crouch, Blake; Crouch, Blake
+
+An Enquiry Concerning Human Understanding
+Hume, David; Hume, David
+
+The Golden Bough: A Study of Magic and Religion (Illustrated)
+Frazer, James George; Frazer, James George
+
+The Catcher in the Rye
+Salinger, J. D.; Salinger, J. D.
+
+On Dialogue (Routledge Great Minds)
+Bohm, David; Bohm, David
+
+The Sirens of Titan: A Novel
+Vonnegut, Kurt; Vonnegut, Kurt
+
+The Great War for Civilisation: The Conquest of the Middle East
+Fisk, Robert; Fisk, Robert
+
+How To: Absurd Scientific Advice for Common Real-World Problems
+Munroe, Randall; Munroe, Randall
+
+The Chemical History of a Candle
+Faraday, Michael; Faraday, Michael
+
+Calypso
+Sedaris, David; Sedaris, David
+
+The Power of Habit: Why We Do What We Do, and How to Change
+Duhigg, Charles; Duhigg, Charles
+
+Why We Sleep: The New Science of Sleep and Dreams
+Walker, Matthew; Walker, Matthew
+
+White Fang 
+London, Jack; London, Jack
+
+The Secret Garden 
+Hodgson Burnett, Frances; Hodgson Burnett, Frances
+
+The Wonderful Wizard of Oz 
+Baum, L. Frank; Baum, L. Frank
+
+A Christmas Carol 
+Dickens, Charles; Dickens, Charles
+
+The Odyssey 
+Homer,; Homer,
+
+The Iliad 
+Homer,; Homer,
+
+The Adventures of Huckleberry Finn 
+Twain, Mark; Twain, Mark
+
+The Tell-Tale Heart and Other Stories 
+Poe, Edgar Allan; Poe, Edgar Allan
+
+A Treatise of Human Nature
+Hume, David; Hume, David
+
+Beyond Good and Evil 
+Nietzsche, Friedrich; Nietzsche, Friedrich
+
+A Little Princess 
+Hodgson Burnett, Frances; Hodgson Burnett, Frances
+
+Control Theory Tutorial: Basic Concepts Illustrated by Software Examples (SpringerBriefs in Applied Sciences and Technology)
+Frank, Steven A.; Frank, Steven A.
+
+Elements of Robotics
+Ben-Ari, Mordechai; Mondada, Francesco; Ben-Ari, Mordechai; Mondada, Francesco
+
+Linux for Beginners: An Introduction to the Linux Operating System and Command Line
+Cannon, Jason; Cannon, Jason
+
+50 Challenging Calculus Problems (Fully Solved)
+McMullen, Chris; McMullen, Chris
+
+Advice for a Young Investigator
+Cajal, Ramon y; Swanson, Neely; Swanson, Larry W.; Cajal, Ramon y; Swanson, Neely; Swanson, Larry W.
+
+"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character
+Feynman, Richard P.; Ralph Leighton; Feynman, Richard P.; Ralph Leighton
+
+How to Think Like a Cat
+Garnier, Stéphane; Garnier, Stéphane
+
+Designing Adaptive Virtual Worlds
+Gu, Ning; Maher, Mary Lou; Gu, Ning; Maher, Mary Lou
+
+If This Isn't Nice, What Is?: The Graduation Speeches and Other Words to Live By
+Vonnegut, Kurt; Vonnegut, Kurt
+
+A PhD Is Not Enough!: A Guide to Survival in Science
+Feibelman, Peter J.; Feibelman, Peter J.
+
+Les Misérables (Book Center)
+Hugo, Victor; Hugo, Victor
+
+The Picture of Dorian Gray
+Wilde, Oscar; Wilde, Oscar
+
+Anna Karenina
+Leo Tolstoy; Leo Tolstoy
+
+Uncle Tom's Cabin, Young Folks' Edition
+Stowe, Harriet Beecher; Stowe, Harriet Beecher
+
+Crime and Punishment 
+Dostoyevsky, Fyodor; Dostoyevsky, Fyodor
+
+Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction
+Wilson, Gary; Wilson, Gary
+
+Moon Shot: The Inside Story of America's Apollo Moon Landings
+Barbree, Jay; Shepard, Alan; Slayton, Deke; Barbree, Jay; Shepard, Alan; Slayton, Deke
+
+Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World
+Schneier, Bruce; Schneier, Bruce
+
+The Spirit Level: Why Equality is Better for Everyone
+Pickett, Kate; Wilkinson, Richard; Pickett, Kate; Wilkinson, Richard
+
+The Book of Why: The New Science of Cause and Effect
+Pearl, Judea; Mackenzie, Dana; Pearl, Judea; Mackenzie, Dana
+
+Madonna in a Fur Coat (Penguin Modern Classics)
+Ali, Sabahattin; Ali, Sabahattin
+
+The Zen Predator of the Upper East Side
+Oppenheimer, Mark
+
+LOST HORIZON - The Legend of Shangri-La: Adventure Classic
+Hilton, James; Hilton, James
+
+The End of Alzheimer's: The First Program to Prevent and Reverse Cognitive Decline
+Bredesen, Dale
+
+Drunk Tank Pink: And Other Unexpected Forces That Shape How We Think, Feel, and Behave
+Alter, Adam; Alter, Adam
+
+Heart of a Dog: A Play
+Bulgakov, Mikhail; Bulgakov, Mikhail
+
+Player Piano: A Novel
+Vonnegut, Kurt; Vonnegut, Kurt
+
+The Dalai Lama's Cat
+Michie, David
+
+Freakonomics Rev Ed: A Rogue Economist Explores the Hidden Side of Everything
+Levitt, Steven D.; Dubner, Stephen J.; Levitt, Steven D.; Dubner, Stephen J.
+
+Galápagos
+Vonnegut, Kurt; Vonnegut, Kurt
+
+Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts
+Dehaene, Stanislas; Dehaene, Stanislas
+
+Chaos: Making a New Science
+Gleick, James; Gleick, James
+
+Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
+O'Neil, Cathy; O'Neil, Cathy
+
+What the Tortoise Said to Achilles
+Carroll, Lewis; Carroll, Lewis
+
+Sailing alone around the world: A voyage beyond imagination
+Slocum, Joshua
+
+T-Rex Trying
+Murphy, Hugh; Murphy, Hugh
+
+Brave New World
+Huxley, Aldous; Huxley, Aldous
+
+Conscious Robots: If We Really Had Free Will, What Would We Do All Day?
+Kwatz, Paul; Kwatz, Paul
+
+Don Quixote
+de Cervantes, Miguel; de Cervantes, Miguel
+
+Moby Dick
+Herman Melville; Herman Melville
+
+Pushing Limits: From West Point to Berkeley & Beyond
+Hill, Ted; Hill, Ted
+
+The Murders in the Rue Morgue
+Poe, Edgar Allan; Poe, Edgar Allan
+
+The Mystery of Marie Roget
+Poe, Edgar Allan; Poe, Edgar Allan
+
+The Purloined Letter (Annotated Edition)
+Poe, Edgar Allan; Baudelaire, Charles; Poe, Edgar Allan; Baudelaire, Charles
+
+The Elements of Style
+Jr., William Strunk; Classics, Golden Deer; Jr., William Strunk; Classics, Golden Deer
+
+The Mindful Geek: Mindfulness Meditation for Secular Skeptics
+Taft, Michael; Taft, Michael
+
+You Are Not So Smart: Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, an d 46 Other Ways You're Deluding Yourself
+McRaney, David; McRaney, David
+
+We Have No Idea: A Guide to the Unknown Universe
+Cham, Jorge; Whiteson, Daniel; Cham, Jorge; Whiteson, Daniel
+
+Meatonomics: How the Rigged Economics of Meat and Dairy Make You Consume Too Much—and How to Eat Better, Live Longer, and Spend Smarter
+Simon, David Robinson; Simon, David Robinson
+
+Connections
+Burke, James; Burke, James
+
+The Problems of Philosophy
+Bertrand Russell; Bertrand Russell
+
+Richard Brautigan's Trout Fishing in America, The Pill Versus the Springhill Mine Disaster, and In Watermelon Sugar
+Brautigan, Richard; Brautigan, Richard
+
+Of Mice and Men: Teacher's Deluxe Edition
+Steinbeck, John; Steinbeck, John
+
+The Undercover Economist
+Harford, Tim; Harford, Tim
+
+On the origin of species
+Darwin, Charles; Darwin, Charles
+
+A People's History of the United States
+Zinn, Howard; Zinn, Howard
+
+The Social Guidebook to Sweden: An Illustrated Introduction
+Bourrelle, Julien S.; Bourrelle, Julien S.
+
+A Book of Set Theory (Dover Books on Mathematics)
+Pinter, Charles C; Pinter, Charles C
+
+On Formally Undecidable Propositions of Principia Mathematica and Related Systems (Dover Books on Mathematics)
+Gödel, Kurt; Gödel, Kurt
+
+Godel's Proof
+Nagel, Ernest; James R. Newman; Douglas R. Hofstadter; Nagel, Ernest; James R. Newman; Douglas R. Hofstadter
+
+Catch-22: 50th Anniversary Edition
+Heller, Joseph; Heller, Joseph
+
+Kierkegaard: A Very Short Introduction (Very Short Introductions)
+Gardiner, Patrick; Gardiner, Patrick
+
+Tractatus Logico-Philosophicus
+Wittgenstein, Ludwig; Wittgenstein, Ludwig
+
+For Whom The Bell Tolls
+Ernest Hemingway
+
+The Divine Comedy (Translated, Annotated, Illustrated)
+Dante Alighieri; Dante Alighieri
+
+The Seven Pillars of Statistical Wisdom
+Stigler, Stephen M.; Stigler, Stephen M.
+
+Declutter Your Mind: How to Stop Worrying, Relieve Anxiety, and Eliminate Negative Thinking
+Scott, S.J.; Davenport, Barrie; Scott, S.J.; Davenport, Barrie
+
+The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Mark Manson Collection Book 1)
+Manson, Mark
+
+Bayes Theorem Examples: A Visual Guide For Beginners
+Hartshorn, Scott; Hartshorn, Scott
+
+Machine Learning With Random Forests And Decision Trees: A Mostly Intuitive Guide, But Also Some Python
+Hartshorn, Scott; Hartshorn, Scott
+
+Geometry: A Comprehensive Course (Dover Books on Mathematics)
+Pedoe, Dan; Pedoe, Dan
+
+Bayes Theorem: A Visual Introduction For Beginners
+Morris, Dan; Morris, Dan
+
+The Golden Bough
+Frazer, Sir James George; Frazer, Sir James George
+
+The Two Cultures (Canto Classics)
+Snow, C. P.; Collini, Stefan; Snow, C. P.; Collini, Stefan
+
+Overcome The BS of MS: A 3-Step Plan For Women Living With Multiple Sclerosis
+Cohen, Lisa; Cohen, Lisa
+
+Sinbad (Singles Classic)
+Vonnegut, Kurt; Vonnegut, Kurt
+
+In Search of Lost Time [volumes 1 to 7] (Centaur Classics) [The 100 greatest novels of all time - #13]
+Proust, Marcel; Proust, Marcel
+
+Iran Without Borders: Towards a Critique of the Postcolonial Nation
+Dabashi, Hamid; Dabashi, Hamid
+
+To Kill a Mockingbird (Harperperennial Modern Classics)
+Lee, Harper; Lee, Harper
+
+Topology and Geometry (Graduate Texts in Mathematics)
+Bredon, Glen E.; Bredon, Glen E.
+
+Algebraic Topology: A First Course (Graduate Texts in Mathematics)
+Fulton, William; Fulton, William
+
+Topology: Pearson New International Edition
+Munkres, James; Munkres, James
+
+The Moaning of Life: The Worldly Wisdom of Karl Pilkington
+Pilkington, Karl; Pilkington, Karl
+
+The Shah
+Milani, Abbas; Milani, Abbas
+
+The New Confessions of an Economic Hit Man
+Perkins, John; Perkins, John
+
+State of Power 2016: Democracy, power and resistance
+Varoufakis, Yanis; Phillips, Leigh; Coburn, Elaine; Gleckman, Harris; Kothari, Ashish; Das, Pallav; Postill, John; Gutierrez, Bernardo; Docena, Herbert; Varoufakis, Yanis; Phillips, Leigh; Coburn, Elaine; Gleckman, Harris; Kothari, Ashish; Das, Pallav; Postill, John; Gutierrez, Bernardo; Docena, Herbert
+
+Too Loud a Solitude (Harvest in Translation)
+Hrabal, Bohumil; Hrabal, Bohumil
+
+Ray Tracing: The Rest Of Your Life (Ray Tracing Minibooks Book 3)
+Shirley, Peter; Shirley, Peter
+
+Jonathan Livingston Seagull: The New Complete Edition
+Bach, Richard; Bach, Richard
+
+Wittgenstein: A Very Short Introduction (Very Short Introductions)
+Grayling, A. C.; Grayling, A. C.
+
+Breakfast of Champions
+Vonnegut, Kurt; Vonnegut, Kurt
+
+Slaughterhouse-Five
+Vonnegut, Kurt; Vonnegut, Kurt
+
+Cat's Cradle
+Vonnegut, Kurt; Vonnegut, Kurt
+
+Figuring It Out: Entertaining Encounters with Everyday Math
+Crato, Nuno; Crato, Nuno
+
+The Strange Case of Dr. Jekyll and Mr. Hyde (Illustrated)
+Stevenson, Robert Louis; Stevenson, Robert Louis
+
+Thing Explainer: Complicated Stuff in Simple Words
+Munroe, Randall; Munroe, Randall
+
+Who Shot Ahmed? A Mystery Unravels in Bahrain's Botched Arab Spring (DAWNS Global Humanitarian Storytelling Series)
+Dickinson, Elizabeth; Dickinson, Elizabeth
+
+Seeing Things as They Are: A Theory of Perception
+Searle, John R.; Searle, John R.
+
+Geometry and Meaning (Lecture Notes)
+Widdows, Dominic; Widdows, Dominic
+
+Statistics Done Wrong: The Woefully Complete Guide
+Reinhart, Alex; Reinhart, Alex
+
+Intelligence: A Very Short Introduction (Very Short Introductions Book 39)
+Deary, Ian J.; Deary, Ian J.
+
+Nothing: A Very Short Introduction (Very Short Introductions)
+Close, Frank; Close, Frank
+
+Chronicle of the Conquest of Granada
+Irving, Washington; Irving, Washington
+
+The Sketch-Book of Geoffrey Crayon
+Irving, Washington; Irving, Washington
+
+Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering (Studies in Nonlinearity)
+Strogatz, Steven H.; Strogatz, Steven H.
+
+The Development of Mathematics (Dover Books on Mathematics)
+Bell, E. T.; Bell, E. T.
+
+Fractals: A Very Short Introduction (Very Short Introductions)
+Falconer, Kenneth; Falconer, Kenneth
+
+The Communist Manifesto
+Marx, Karl; Marx, Karl
+
+Ray Tracing: the Next Week (Ray Tracing Minibooks Book 2)
+Shirley, Peter; Shirley, Peter
+
+The Inferno
+Dante Alighieri; Dante Alighieri
+
+Networks: A Very Short Introduction (Very Short Introductions)
+Caldarelli, Guido; Catanzaro, Michele; Caldarelli, Guido; Catanzaro, Michele
+
+Chaos: A Very Short Introduction (Very Short Introductions)
+Smith, Leonard; Lenny Smith; Smith, Leonard; Lenny Smith
+
+Complexity: A Very Short Introduction (Very Short Introductions)
+Holland, John H.; Holland, John H.
+
+Mechanics (Dover Books on Physics)
+Hartog, J. P. Den; Hartog, J. P. Den
+
+An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics)
+Pierce, John R.; Pierce, John R.
+
+Cycles in mind: How brain rhythms control perception and action
+Cohen, Mike X; Cohen, Mike X
+
+Code Your Own Neural Network: A step-by-step explanation
+Shaffer, Steven C.; Shaffer, Steven C.
+
+The Case against Perfection
+Sandel, Michael J; Sandel, Michael J
+
+Agent_Zero: Toward Neurocognitive Foundations for Generative Social Science (Princeton Studies in Complexity)
+Epstein, Joshua M.; Epstein, Joshua M.
+
+Justice: What's the Right Thing to Do?
+Sandel, Michael; Sandel, Michael
+
+What Money Can't Buy: The Moral Limits of Markets
+Sandel, Michael; Sandel, Michael
+
+Outliers: The Story of Success
+Gladwell, Malcolm; Gladwell, Malcolm
+
+Thinking, Fast and Slow
+Kahneman, Daniel; Kahneman, Daniel
+
+The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science
+Doidge, Norman; Doidge, Norman
+
+The Works of Benedict de Spinoza
+de Spinoza, Benedict; de Spinoza, Benedict
+
+The Rene Descartes Collection: His Classic Works
+Descartes, Rene; Descartes, Rene
+
+The Immanuel Kant Collection: 8 Classic Works
+Kant, Immanuel; Kant, Immanuel
+
+The Complete Works of Thomas Hobbes: Leviathan, Behemoth, The Art Of Rhetoric and The Art Of Sophistry, A Dialogue Between A Philosopher and A Student, ... (6 Books With Active Table of Contents)
+Hobbes, Thomas; Homer; Hobbes, Thomas; Homer
+
+Utilitarianism
+Mills, John Stuart; Mills, John Stuart
+
+The Social Contract
+Jean-Jacques Rousseau; Jean-Jacques Rousseau
+
+An Essay Concerning Human Understanding, Volume 2 MDCXC, Based on the 2nd Edition, Books 3 and 4
+Locke, John; Locke, John
+
+An Essay Concerning Humane Understanding, Volume 1MDCXC, Based on the 2nd Edition, Books 1 and 2
+Locke, John; Locke, John
+
+John Locke: 7 Works
+Locke, John; Locke, John
+
+On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines
+Hawkins, Jeff; Blakeslee, Sandra; Hawkins, Jeff; Blakeslee, Sandra
+
+Philosophy of Mind
+Kim, Jaegwon; Kim, Jaegwon
+
+Coding the Matrix: Linear Algebra through Computer Science Applications
+Klein, Philip; Klein, Philip
+
+Elementary Functional Analysis (Dover Books on Mathematics)
+Shilov, Georgi E.; Shilov, Georgi E.
+
+Introduction to Lattices and Order
+Davey, B. A.; Priestley, H. A.; Davey, B. A.; Priestley, H. A.
+
+Ray Tracing in One Weekend (Ray Tracing Minibooks Book 1)
+Shirley, Peter; Shirley, Peter
+
+The Geometry of Meaning: Semantics Based on Conceptual Spaces (MIT Press)
+Gärdenfors, Peter; Gärdenfors, Peter
+
+Introduction to Graph Theory (Dover Books on Mathematics)
+Trudeau, Richard J.; Trudeau, Richard J.
+
+Introduction to Topology: Third Edition (Dover Books on Mathematics)
+Mendelson, Bert; Mendelson, Bert
+
+Introduction to Topology: Second Edition (Dover Books on Mathematics)
+Gamelin, Theodore W.; Greene, Robert Everist; Gamelin, Theodore W.; Greene, Robert Everist
+
+The Moscow Puzzles: 359 Mathematical Recreations (Dover Recreational Math)
+Kordemsky, Boris A.; Kordemsky, Boris A.
+
+A Book of Abstract Algebra: Second Edition
+Pinter, Charles C.; Pinter, Charles C.
+
+Leviathan
+Hobbes, Thomas; Hobbes, Thomas
+
+Meditations (Inti Classics): by Marcus Aurelius
+Aurelius, Marcus; Aurelius, Marcus
+
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+Munroe, Randall
+
+Buckley's Story
+King, Ingrid; King, Ingrid
+
+Purrs of Wisdom: Conscious Living, Feline Style
+King, Ingrid; King, Ingrid
+
+NSA Secrets: Government Spying in the Internet Age
+The Washington Post; The Washington Post
+
+Homage to Catalonia
+Orwell, George; Orwell, George
+
+Python: Learn Python Regular Expressions FAST! - The Ultimate Crash Course to Learning the Basics of Python Regular Expressions In No Time (Python, Python ... Python Regular Expressions Books)
+Acodemy; Acodemy
+
+Betterness: Economics for Humans
+Haque, Umair; Haque, Umair
+
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book)
+Ruiz, Don Miguel; Mills, Janet; Ruiz, Don Miguel; Mills, Janet
+
+Chasing the Scream: The First and Last Days of the War on Drugs
+Hari, Johann; Hari, Johann
+
+The Number Devil: A Mathematical Adventure
+Enzensberger, Hans Magnus; Enzensberger, Hans Magnus
+
+How Dogs Love Us: A Neuroscientist and His Adopted Dog Decode the Canine Brain
+Berns, Gregory; Berns, Gregory
+
+Sparkle
+Altman, Mara; Altman, Mara
+
+Bearded Lady
+Altman, Mara; Altman, Mara
+
+Baby Steps
+Altman, Mara; Altman, Mara
+
+Not A Match: My True Tales of Online Dating Disasters
+Donovan, Brian; Donovan, Brian
+
+Godfathers and Thieves: How Syria's Diaspora Crowd-Sourced a Revolution
+Dickinson, Elizabeth; Dickinson, Elizabeth
+
+A Grand Theory of Everything
+McGirk, James; McGirk, James
+
+The Girls, Alone: Six Days in Estonia
+Rough, Bonnie J.; Rough, Bonnie J.
+
+My Seinfeld Year
+Stoller, Fred; Stoller, Fred
+
+A Spy's Guide to Thinking
+Braddock, John; Braddock, John
+
+What Money Can't Buy: The Moral Limits of Markets
+Sandel, Michael J.; Sandel, Michael J.
+
+The Marshmallow Test: Understanding Self-control and How To Master It
+Mischel, Walter; Mischel, Walter
+
+Flatland: Color Illustrated, Formatted for E-Readers (Unabridged Version)
+Abbott, Edwin A.; Abbott, Edwin A.
+
+Hipster Business Models: How to make a living in the modern world
+Priceonomics; Priceonomics
+
+The Snowden Files: The Inside Story of the World's Most Wanted Man
+Harding, Luke; Harding, Luke
+
+No Place to Hide: Edward Snowden, the NSA and the Surveillance State
+Greenwald, Glenn; Greenwald, Glenn
