@@ -1,6 +1,12 @@
 # Book Catalogue
 
 # Laundy list
+* [ ] in case of multiple responses, let the user to choose
+* [ ] often the book that is found is wrong
+      should provided an interactive mode with user
+      show queried title, and retrieved title
+      ask use to approve
+* [ ] add storage to file, serialization to json?
 
 # License
 ```
