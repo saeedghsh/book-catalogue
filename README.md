@@ -1,6 +1,11 @@
 # Book Catalogue
 
-# Laundy list
+## Example
+```bash
+python main.py --credential-file <credential-json-file> --book-list-file kindle_titles.txt
+```
+
+## Laundy list
 * [ ] in case of multiple responses, let the user to choose
 * [ ] often the book that is found is wrong
       should provided an interactive mode with user
